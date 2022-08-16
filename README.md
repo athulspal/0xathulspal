@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**0xathulspal/0xathulspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 I’m currently a Web3 Software developer building projects using React.js, React-Native and Node.js amd focusing on blockchain technical writing.
+- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, React.js, HTML5, CSS3, Bootstrap and React-Native.
+- 🤔 I’m looking for help with proper building of APIs and getting started with smart contract development on networks like [Ethereum](https://ethereum.org/en/), [BSC](https://www.binance.org/en), [ChainLink](https://chain.link/), [Stacks](https://www.stacks.co/), [Solana](https://solana.com/), [Celo](https://celo.org/).
+- 💬 Ask me about Full-stack Web Development, Technical Writing, Solidity, Javascript , threejs,python and tech related ideas especially if you want to get started or still a newbie.
+- 😄 Pronouns: he/him
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/0xathulspal/count.svg" />
@@ -10,10 +13,9 @@
 
  
  [![0xathulspal's github stats](https://github-readme-stats.vercel.app/api?username=0xathulspal&show_icons=true&theme=black)](https://github.com/0xathulspal/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xathulspal&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xathulspal&show_icons=true&theme=black&layout=compact)](https://github.com/0xathulspal/github-readme-stats)
-
-
+<!--
+**0xathulspal/0xathulspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
