@@ -3,6 +3,15 @@
 <!--
 **0xathulspal/0xathulspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0xdude69/count.svg" />
+</p>
+
+ 
+ [![0xathulspal's github stats](https://github-readme-stats.vercel.app/api?username=0xathulspal&show_icons=true&theme=black)](https://github.com/0xathulspal/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xathulspal&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xathulspal&show_icons=true&theme=black&layout=compact)](https://github.com/0xathulspal/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
