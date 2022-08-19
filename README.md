@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Web3 Software developer building projects using React.js, and Node.js amd focusing on blockchain contracts.
-- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity 
+- 🔭 I’m currently a Web3 Software developer building projects using React.js and Node.js amd focusing on blockchain contracts.
+- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity and starting to contribute to FOSS. 
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, React.js, HTML5, CSS3, Bootstrap and React-Native.
 - 🤔- 💬 Ask me about Full-stack Web Development, Golang,Python, Solidity, Javascript , threejs and tech related ideas especially if you want to get started or still a newbie.
 - 😄 Pronouns: he/him
