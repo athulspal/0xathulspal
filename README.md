@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Web3 Software developer building projects using React.js and Node.js amd focusing on blockchain contracts.
-- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity and starting to contribute to FOSS. 
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on Golang,k8s,Javascript,blockchain development, React.js, HTML5, CSS3, Bootstrap and React-Native.
-- 🤔- 💬 Ask me about Full-stack Web Development, Golang,Python, Solidity, Javascript , threejs and tech related ideas especially if you want to get started or still a newbie.
+- 🔭 I’m currently a  Software Developer/ Smart Contract Auditor and I am focusing on blockchain tech.
+- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity and finding bugs in existing ones. 
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔- 💬 Ask me about Full-stack Web3 Development, Golang ,Python, Solidity, Javascript , threejs and tech related ideas especially if you want to get started or still a newbie.
 - 😄 Pronouns: he/him
 <p align="center"> 
   Visitor count<br>
@@ -11,7 +11,6 @@
 </p>
 
  
- [![0xathulspal's github stats](https://github-readme-stats.vercel.app/api?username=0xathulspal&show_icons=true&theme=black)](https://github.com/0xathulspal/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xathulspal&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xathulspal&show_icons=true&theme=black&layout=compact)](https://github.com/0xathulspal/github-readme-stats)
 <!--
 **0xathulspal/0xathulspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
