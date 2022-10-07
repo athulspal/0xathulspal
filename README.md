@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a  Software Developer/ Smart Contract Auditor and I am focusing on blockchain tech.
-- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity and finding bugs in existing ones. 
+- 🔭 I’m currently a  Software Developer/ Smart Contract Auditor and I am focusing on everything related to blockchain tech.
+- 🌱 I’m currently learning how to build scalable DApps on Ethereum blockchain using Solidity and finding bugs in existing ones. 
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔- 💬 Ask me about Full-stack Web3 Development, Golang ,Python, Solidity, Javascript , threejs and tech related ideas especially if you want to get started or still a newbie.
-- 😄 Pronouns: he/him
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/0xathulspal/count.svg" />
