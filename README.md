@@ -1,10 +1,10 @@
-### Hi there 👋
+ Hi there 👋
 
-- 🔭 I’m currently a  Software Developer/ Smart Contract Auditor and I am focusing on everything related to blockchain tech.
-- 🌱 I’m currently learning how to build scalable DApps on Ethereum blockchain using Solidity and finding bugs in existing ones. 
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔- 💬 Ask me about Full-stack Web3 Development, Golang ,Python, Solidity, Javascript , threejs and tech related ideas especially if you want to get started or still a newbie.
-- mantra : Nothing last for ever and if you never give up and take setbacks as a learning experience, one day you will reach your destination
+- 🔭-I’m  a   Fullstack Dev / data scientist, Currently learning Smart Contract  and I am focusing on everything related to blockchain tech.
+- 🌱-I’m currently learning how to build scalable DApps on Ethereum blockchain using Solidity and finding bugs by auditing existing once. 
+- 👯-I’m looking to collaborate on open-source projects.
+- 🤔- 💬 Ask me about Full-stack Web3 Development,Golang,Python,Solidity,EVM,Typescript and tech related ideas especially if you want to get started or still a newbie.
+- 🧙-mantra : Nothing last forever and if you never give up and take setbacks as a learning experience, one day you will reach your destination.
 
 <p align="center"> 
   Visitor count<br>
