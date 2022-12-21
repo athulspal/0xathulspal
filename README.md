@@ -1,4 +1,4 @@
- Hi there 👋
+
 # 💫 About Me:
 Software Engineer who loves blockchain ,ai and web development.
 
